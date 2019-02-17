@@ -1,6 +1,8 @@
 # 半透明合成
 透けた物体を表示します。
 
+https://webglstudy.github.io/08_alpha/
+
 ![結果画像](result.gif)
 
 # 課題
